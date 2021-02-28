@@ -12,7 +12,7 @@
 
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 6.25rem;
+  gap: 4.25rem;
   align-content: center;
 
   margin-top: 40px;
@@ -26,5 +26,6 @@
   }
   .container section {
     grid-template-columns: 1fr;
+    gap: 2rem;
   }
 }
